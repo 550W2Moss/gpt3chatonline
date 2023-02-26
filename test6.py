@@ -276,7 +276,7 @@ def main():
             st.markdown("""
     <style>
       .type1 {
-        background-color: green;
+        background-color: YellowGreen ;
         padding: 10px;
         border-radius: 10px;
       }
