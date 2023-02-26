@@ -281,7 +281,7 @@ def main():
         border-radius: 10px;
       }
       .type2 {
-        background-color: darkblue;
+        background-color: LightSkyBlue;
         padding: 10px;
         border-radius: 10px;
       }
